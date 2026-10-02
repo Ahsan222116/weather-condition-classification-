@@ -1,4 +1,4 @@
-# Weather Condition Classification — Machine Learning Portfolio Project
+# Weather Condition Classification — Machine Learning Project
 
 > An end-to-end multiclass machine-learning project for predicting observed weather conditions from historical meteorological observations.
 
